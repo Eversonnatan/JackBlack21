@@ -63,9 +63,9 @@ function pedirCarta(){
     }
 }
 
-function plantarme(){
+function jogarMao(){
     document.getElementById("pedir").disabled = true;
-    document.getElementById("plantar").disabled = true;
+    document.getElementById("jogarMao").disabled = true;
     document.getElementById("reset").style.visibility = "visible";
     let pointsUser = 0;
     let pointsCpu = 0;
