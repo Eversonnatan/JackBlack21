@@ -103,7 +103,7 @@ function plantarme(){
    } else if (pointsCpu >= pointsUser){
     info.innerHTML += "<br><b>  Cpu Venceu ... </br>";
    } else {
-    info.innerHTML += "<br><b> Você Ganhou!!!!</br>;"
+    info.innerHTML += "<br><b> Você Ganhou!!!!</br>";
    }
 }
 
