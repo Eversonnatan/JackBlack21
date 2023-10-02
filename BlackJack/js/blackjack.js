@@ -7,7 +7,7 @@ canvas.style.height = 400 + "px";
 var ctx = canvas.getContext("2d");
 
 // classe carta
-class Carta{
+class carta{
     //as variaveis estaticas pertecem a essa classe
     static x = 50;
     static y = 50;
